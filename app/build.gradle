@@ -33,6 +33,7 @@ android {
     buildFeatures {
         dataBinding true
     }
+    namespace 'id.dipoengoro.eggtimer'
 }
 
 dependencies {
